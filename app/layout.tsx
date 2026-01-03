@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Contact Us - QR Code Form",
+  title: "BELLIORA - Contact Us",
   description: "Get in touch with us by filling out our contact form",
 };
 
