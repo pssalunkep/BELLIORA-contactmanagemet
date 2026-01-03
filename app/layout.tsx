@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BELLIORA - Contact Us",
+  title: "BELLIORA - Contact Form",
   description: "Get in touch with us by filling out our contact form",
 };
 
